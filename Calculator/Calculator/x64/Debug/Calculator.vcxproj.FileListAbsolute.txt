@@ -1,0 +1,3 @@
+C:\Users\baran\OneDrive\Masaüstü\Kodlarım\C++\Calculator\Calculator\x64\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\Users\baran\OneDrive\Masaüstü\Kodlarım\C++\Calculator\Calculator\x64\Debug\Calculator.MyForm.resources
+C:\Users\baran\OneDrive\Masaüstü\Kodlarım\C++\Calculator\Calculator\x64\Debug\Calculator.vcxproj.GenerateResource.cache
